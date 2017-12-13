@@ -1,5 +1,6 @@
 {
   "name": "ghost-admin",
+  "directory": "bower_components",
   "dependencies": {
     "devicejs": "0.2.7",
     "Faker": "3.1.0",
